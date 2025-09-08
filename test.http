@@ -1,0 +1,35 @@
+###
+#
+# Browse Books
+#
+
+GET http://localhost:4004/odata/v4/catalog/Books
+
+###
+# Browse Book by Id
+GET http://localhost:4004/odata/v4/catalog/Books(c1a1f1ee-7d64-4b01-91e6-d701748f0852)
+
+### Insert a new Book
+
+POST http://localhost:4004/odata/v4/catalog/Books
+Content-Type: application/json
+
+{
+    "title" : "My Childhood",
+    "author" : "Sujit Mahapatra",
+    "price" : 599,
+    "stock" : 1000
+}
+
+### Update a book
+
+PATCH http://localhost:4004/odata/v4/catalog/Books(c1a1f1ee-7d64-4b01-91e6-d701748f0852)
+Content-Type: application/json
+
+{
+    "title" : "Introduction to SAP ABAP"
+}
+
+### Delete a Book by ID
+
+DELETE http://localhost:4004/odata/v4/catalog/Books(c1a1f1ee-7d64-4b01-91e6-d701748f0852)

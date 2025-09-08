@@ -1,0 +1,56 @@
+.smallText {
+  font-size: 0.65rem;
+}
+
+.bookstoreHeading {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.inlineText {
+  display: inline;
+}
+
+.bookstoreBlue {
+  font-size: 3rem;
+  font-weight: bold;
+  color: blue;
+}
+
+.bookstoreBlack {
+  font-size: 3rem;
+  font-weight: bold;
+  color: black;
+}
+
+.subscribeBox {
+  background-color: #ff7f50;
+  border-radius: 15px;
+  padding: 2rem;
+}
+
+.subscribeHeading {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+}
+
+.subscribeInput {
+  border-radius: 20px;
+  padding: 0.5rem 1rem;
+}
+
+.subscribeBtn {
+  border-radius: 20px;
+    padding: 0.5rem 1rem;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    background-color: #f8f8f800; /* optional styling */
+    padding: 10px 0;
+    text-align: center;
+}

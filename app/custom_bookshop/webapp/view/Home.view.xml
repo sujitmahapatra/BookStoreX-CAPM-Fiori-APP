@@ -1,0 +1,10 @@
+<mvc:View controllerName="custombookshop.controller.Home"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:tnt="sap.tnt"
+    xmlns="sap.m">
+    <Page id="home" title="{i18n>title}">
+    </Page>
+
+    <Text id ="test" text="This is Home page!"></Text>
+
+</mvc:View>

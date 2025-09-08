@@ -1,0 +1,47 @@
+[
+  {
+    "ID": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+    "title": "The Great Adventure",
+    "author": "John Smith",
+    "price": 45.99,
+    "stock": 12,
+    "location": "Shelf A1",
+    "genre": "Adventure"
+  },
+  {
+    "ID": "c1a1f1ee-7d64-4b01-91e6-d701748f0852",
+    "title": "Mystery of the Old House",
+    "author": "Emily Johnson",
+    "price": 39.50,
+    "stock": 8,
+    "location": "Shelf B2",
+    "genre": "Mystery"
+  },
+  {
+    "ID": "b2b2f1ee-8e74-4b01-92e6-d701748f0853",
+    "title": "Python Programming 101",
+    "author": "Robert Brown",
+    "price": 59.99,
+    "stock": 20,
+    "location": "Tech Section",
+    "genre": "Educational"
+  },
+  {
+    "ID": "a3c3f1ee-9f84-4b01-93e6-d701748f0854",
+    "title": "Gardening for Beginners",
+    "author": "Linda Davis",
+    "price": 25.00,
+    "stock": 15,
+    "location": "Shelf C3",
+    "genre": "Lifestyle"
+  },
+  {
+    "ID": "d4d4f1ee-0a94-4b01-94e6-d701748f0855",
+    "title": "Space and Beyond",
+    "author": "Michael Wilson",
+    "price": 70.00,
+    "stock": 5,
+    "location": "Science Section",
+    "genre": "Science Fiction"
+  }
+]
