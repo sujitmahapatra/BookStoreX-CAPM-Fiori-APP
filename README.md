@@ -1,6 +1,11 @@
-# Getting Started
+# BookStoreX
 
-Welcome to your new project.
+---
+
+<img src = "OUTPUT/Screenshot 2025-09-08 170508.png"/>
+<img src = "OUTPUT/Screenshot 2025-09-08 170528.png"/>
+
+---
 
 It contains these folders and files, following our recommended project layout:
 
