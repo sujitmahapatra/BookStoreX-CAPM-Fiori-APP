@@ -6,5 +6,6 @@
     </Page>
 
     <Text id ="test" text="This is Home page!"></Text>
+    <Text id ="test2" text="This text is for Testing purpose only!"></Text>
 
 </mvc:View>
